@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>The original has no period at the end of the dedication, and the dedication is not a complete sentence.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
