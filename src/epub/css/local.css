@@ -53,3 +53,13 @@ section[epub|type~="dedication"] > *{
 	text-align: justify;
 	text-indent: 0;
 }
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure + p{
+	text-indent: 0;
+}
